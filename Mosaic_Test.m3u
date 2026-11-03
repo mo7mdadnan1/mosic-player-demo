@@ -1,0 +1,6 @@
+#EXTM3U
+# Big Buck Bunny (c) 2008 Blender Foundation / www.bigbuckbunny.org
+# Creative Commons Attribution 3.0 - https://peach.blender.org/about/
+# HLS test stream hosted by Mux: https://test-streams.mux.dev/
+#EXTINF:-1 group-title="Free test",Big Buck Bunny - Blender Foundation (CC BY 3.0)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
